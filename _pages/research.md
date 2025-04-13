@@ -11,7 +11,7 @@ horizontal: false
 
 # Working Paper
 **[Mandatory US Subsidy Disclosures: Early Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135879)**  
-with [Aneesh Raghunandan](https://www.aneeshraghunandan.com/), [Shivaram Rajgopal](https://www.shivarajgopal.com/), and [Min Jun Song](https://academics.business.columbia.edu/node/1550)
+with [Aneesh Raghunandan](https://www.aneeshraghunandan.com/), [Shivaram Rajgopal](https://www.shivarajgopal.com/), and [Min Jun Song](https://business.columbia.edu/post-grad/people/min-jun-song)
 - Presentations: 2024 Barcelona Accounting Summer Workshop, 2024 Columbia Business School Accounting Reading Group\*, 2025 Hawai’i Accounting Research Conference\*
 
 **Regulating in Name Only: The Consequences of Mutual Fund Naming Rules**  
