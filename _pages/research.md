@@ -18,8 +18,7 @@ with [Aneesh Raghunandan](https://www.aneeshraghunandan.com/), [Shivaram Rajgopa
 with [Kalash Jain](https://kalashjain.me/) and [Shivaram Rajgopal](https://www.shivarajgopal.com/)
 - Presentations: 2024 MIT Sloan Accounting Seminar, 2024 Columbia Business School Accounting Seminar
 
-<!-- **[Sequential Voluntary Disclosure](https://papers.ssrn.com/abstract=5211725)**   -->
-**Sequential Voluntary Disclosure**  
+**[Sequential Voluntary Disclosure](https://papers.ssrn.com/abstract=5211725)**  
 solo-authored, based on my second-year paper  
 - Presentations: 2024 Columbia Business School Accounting Seminar\*, 2025 Columbia Accounting Theory Conference (Early Idea Session)\*, Fourteenth Accounting Research Workshop\*
 

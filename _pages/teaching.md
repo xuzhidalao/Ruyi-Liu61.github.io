@@ -29,7 +29,7 @@ nav_order: 6
 - *[MSFE](https://courses.business.columbia.edu/B9030)* (Instructor: [Amir Ziv](https://business.columbia.edu/faculty/people/amir-ziv)): Spring 2025, Spring 2024
 
 **Financial Statement Analysis and Valuation**, Columbia Business School  
-- *[MBA](https://courses.business.columbia.edu/B8009)* (Instructor: [Kalash Jain](https://kalashjain.me/), [Susan Young](https://www.fordham.edu/gabelli-school-of-business/faculty/full-time-faculty/susan-young/)): Spring 2025, Spring 2023
+- *[MBA](https://courses.business.columbia.edu/B8009)* (Instructor: [Kalash Jain](https://kalashjain.me/), [Susan Young](https://www.fordham.edu/gabelli-school-of-business/faculty/full-time-faculty/susan-young/)): Summer 2025, Spring 2025, Spring 2023
 
 **Big Data In Finance**, Columbia Business School
 - *[PhD](https://courses.business.columbia.edu/B9334)* (Instructor: [Harry Mamaysky](https://business.columbia.edu/faculty/people/harry-mamaysky)): Spring 2025, Spring 2024
