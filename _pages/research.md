@@ -11,7 +11,8 @@ horizontal: false
 
 # Working Paper
 **[Mandatory US Subsidy Disclosures: Early Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135879)**  
-with [Aneesh Raghunandan](https://www.aneeshraghunandan.com/), [Shivaram Rajgopal](https://www.shivarajgopal.com/), and [Min Jun Song](https://business.columbia.edu/post-grad/people/min-jun-song)
+with [Aneesh Raghunandan](https://www.aneeshraghunandan.com/), [Shivaram Rajgopal](https://www.shivarajgopal.com/), and [Min Jun Song](https://business.columbia.edu/post-grad/people/min-jun-song)  
+*R&R (The Accounting Review)*
 - Presentations: 2024 Barcelona Accounting Summer Workshop, 2024 Columbia Business School Accounting Reading Group\*, 2025 Hawai’i Accounting Research Conference\*
 
 **Regulating in Name Only: The Consequences of Mutual Fund Naming Rules**  
@@ -25,6 +26,9 @@ solo-authored, based on my second-year paper
 # Selected Work in Progress
 **Performance Pricing, Risk Shifting, and Conservatism**  
 with [Tim Baldenius](https://business.columbia.edu/faculty/people/tim-baldenius)
+
+**Career Concerns and Time Arbitrage**  
+with [Kalash Jain](https://kalashjain.me/) 
 
 **What's Said vs. What's Expected: Information Surprise in MD&A Topics**  
 solo-authored, first-year paper  
