@@ -10,8 +10,8 @@ nav_order: 6
 
 ## Teaching Experience
 **Accounting and Finance**, Columbia University Economics
-- I am scheduled to teach **UN2261: Accounting and Finance** in the forthcoming 2025 summer term.   
-- The course is now open to registration on [Vergil](https://vergil.columbia.edu/). Check the syllabus of the course here: <a href="{{ 'Syllabus.pdf' | prepend: 'assets/pdf/' | relative_url }}" target="_blank" rel="noopener noreferrer">Syllabus UN2261</a>. 
+- I am scheduled to teach **UN2261: Accounting and Finance** in the 2025 summer term (<a href="{{ 'Syllabus.pdf' | prepend: 'assets/pdf/' | relative_url }}" target="_blank" rel="noopener noreferrer">Syllabus</a>). 
+- The course details are available on [CU directory of classes](https://doc.sis.columbia.edu/#subj/ECON/W2261-20252-001/) and the course is now open to registration on [Vergil](https://vergil.columbia.edu/). 
 
 ## Teaching Assistantships
 <!-- ### Columbia Business School   -->
