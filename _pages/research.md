@@ -10,12 +10,12 @@ horizontal: false
 ---
 
 # Working Paper
-**[Mandatory US Subsidy Disclosures: Early Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135879)**  
+**[Mandatory US Subsidy Disclosures: Early Evidence](https://papers.ssrn.com/sol3/abstract_id=5135879)**  
 with [Aneesh Raghunandan](https://www.aneeshraghunandan.com/), [Shivaram Rajgopal](https://www.shivarajgopal.com/), and [Min Jun Song](https://business.columbia.edu/post-grad/people/min-jun-song)  
 *R&R (The Accounting Review)*
 - Presentations: 2024 Barcelona Accounting Summer Workshop, 2024 Columbia Business School Accounting Reading Group\*, 2025 Hawai’i Accounting Research Conference\*
 
-**Regulating in Name Only: The Consequences of Mutual Fund Naming Rules**  
+**[Regulating in Name Only: The Consequences of Mutual Fund Naming Rules](http://ssrn.com/abstract=5259351)**  
 with [Kalash Jain](https://kalashjain.me/) and [Shivaram Rajgopal](https://www.shivarajgopal.com/)
 - Presentations: 2024 MIT Sloan Accounting Seminar, 2024 Columbia Business School Accounting Seminar
 
