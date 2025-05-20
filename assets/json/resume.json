@@ -73,6 +73,15 @@
       "institution": "Columbia University",
       "location": "New York, NY",
       "url": "https://www.columbia.edu/",
+      "url2": "https://business.columbia.edu/faculty/divisions/accounting/phd",
+      "area": "MPhil in Accounting",
+      "startDate": "2022-09-01",
+      "endDate": "2025-05-20"
+    },
+    {
+      "institution": "Columbia University",
+      "location": "New York, NY",
+      "url": "https://www.columbia.edu/",
       "url2": "https://ieor.columbia.edu/financial-engineering-msfe",
       "area": "MS in Financial Engineering",
       "notes": " (Dual Degree Program)",
