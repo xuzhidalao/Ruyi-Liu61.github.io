@@ -21,7 +21,7 @@ with [Kalash Jain](https://kalashjain.me/) and [Shivaram Rajgopal](https://www.s
 
 **[Sequential Voluntary Disclosure](https://papers.ssrn.com/abstract=5211725)**  
 solo-authored, based on my second-year paper  
-- Presentations: 2024 Columbia Business School Accounting Seminar\*, 2025 Columbia Accounting Theory Conference (Early Idea Session)\*, Fourteenth Accounting Research Workshop\*
+- Presentations: 2024 Columbia Business School Accounting Seminar\*, 2025 Columbia Accounting Theory Conference (Early Idea Session)\*, Fourteenth Accounting Research Workshop\*, 2025 AAA Annual Meeting\*
 
 # Selected Work in Progress
 **Performance Pricing, Risk Shifting, and Conservatism**  
