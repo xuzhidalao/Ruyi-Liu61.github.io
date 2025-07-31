@@ -26,11 +26,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Dian Jiao and I am a third-year PhD student in Accounting at Columbia Business School. I am interested in investigating how the accounting information can shape the market efficiency and the role of disclosure and information intermediaries in the process. In my research, I apply both empirical and analytical methods, as well as recent advances in technology such as machine learning and textual analysis. 
+My name is Dian Jiao, and I am a fourth-year PhD student in Accounting at Columbia Business School. I am broadly interested in how accounting information shapes market efficiency. My current research examines how the information is strategically communicated by corporations and manifested by financial institutions. In my research, I apply both empirical and analytical methods.
 
-Prior to joining CBS, I had served for two years as a quantitative researcher at Ruitian Capital, focusing on systematic quantimental equity stratgies based on statistical methods. I received M.S. in Financial Engineering from Columbia, and M.A. in Finance and B.S. in Applied Math from SJTU. 
+Prior to joining CBS, I had served for two years as a quantitative researcher at  <a href="https://www.ruitiancapital.com/">Ruitian Capital</a>, focusing on systematic equity strategies based on statistical methods. I received an M.Phil in Accounting and an M.S. in Financial Engineering from <a href="https://www.columbia.edu/">Columbia University</a>, and an M.A. in Finance and a B.S. in Applied Math from <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>. 
 
-Born and raised in <a href="https://en.wikipedia.org/wiki/Henan">Henan Province</a>, the birthplace of Chinese Civilization with over 3,200 years of recorded history, I enjoy history, Chinese poems, and Chinese calligraphy. Also, I am interested in climbing, basketball, table tennis, road cycling, swimming, and hiking. 
+Born and raised in <a href="https://en.wikipedia.org/wiki/Henan">Henan Province</a>, the birthplace of Chinese Civilization with over 3,200 years of recorded history, I enjoy history, poems, and Chinese calligraphy. Also, I am interested in bouldering, basketball, table tennis, road cycling, swimming, and hiking. 
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

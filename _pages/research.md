@@ -13,27 +13,28 @@ horizontal: false
 **[Mandatory US Subsidy Disclosures: Early Evidence](https://papers.ssrn.com/sol3/abstract_id=5135879)**  
 with [Aneesh Raghunandan](https://www.aneeshraghunandan.com/), [Shivaram Rajgopal](https://www.shivarajgopal.com/), and [Min Jun Song](https://business.columbia.edu/post-grad/people/min-jun-song)  
 *R&R (The Accounting Review)*
-- Presentations: 2024 Barcelona Accounting Summer Workshop, 2024 Columbia Business School Accounting Reading Group\*, 2025 Hawai’i Accounting Research Conference\*
+- Presentations: Barcelona Accounting Summer Workshop\*, Columbia Business School, Hawai’i Accounting Research Conference
 
 **[Regulating in Name Only: The Consequences of Mutual Fund Naming Rules](http://ssrn.com/abstract=5259351)**  
 with [Kalash Jain](https://kalashjain.me/) and [Shivaram Rajgopal](https://www.shivarajgopal.com/)
-- Presentations: 2024 MIT Sloan Accounting Seminar, 2024 Columbia Business School Accounting Seminar
+- Presentations: MIT Sloan\*, Columbia Business School\*
 
 **[Sequential Voluntary Disclosure](https://papers.ssrn.com/abstract=5211725)**  
-solo-authored, based on my second-year paper  
-- Presentations: 2024 Columbia Business School Accounting Seminar\*, 2025 Columbia Accounting Theory Conference\*, Fourteenth Accounting Research Workshop\*, 2025 AAA Annual Meeting\*, The Second Annual Conference of the AES\*
+based on second-year paper  
+- Presentations: Columbia Business School, Columbia Accounting Theory Conference, Fourteenth Accounting Research Workshop, AAA Annual Meeting, The Second Annual Conference of the AES
+
+**Exploiting Myopia: The Returns to Long-Term Investing**  
+with [Kalash Jain](https://kalashjain.me/)  
+- Presentations: The University of Chicago\*, Wolfe Research\*, Columbia Business School
 
 # Selected Work in Progress
 **Performance Pricing, Risk Shifting, and Conservatism**  
 with [Tim Baldenius](https://business.columbia.edu/faculty/people/tim-baldenius)
 
-**Career Concerns and Time Arbitrage**  
-with [Kalash Jain](https://kalashjain.me/) 
-
 **What's Said vs. What's Expected: Information Surprise in MD&A Topics**  
 solo-authored, first-year paper  
 
-\* *Indicates presentations by me*
+\* *Indicates presentations by coauthor*
 <!-- **Internal Uncertainty and External Communication: Evidence from Corporate Violations**  
 with [Jonas Heese](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=740159), [Ronghuo Zheng](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/ronghuo-zheng/), and [Yuan Zou](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1201306) -->
 
