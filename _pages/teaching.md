@@ -10,7 +10,8 @@ nav_order: 6
 
 ## Teaching Experience
 **Introduction to Accounting and Finance**, Columbia University Economics Department
-- [Undergraduate](https://doc.sis.columbia.edu/#subj/ECON/W2261-20252-001/): Summer 2025 (median rating: 5.0/5.0, 56% response; <a href="{{ 'Syllabus.pdf' | prepend: 'assets/pdf/' | relative_url }}" target="_blank" rel="noopener noreferrer">Syllabus</a>)
+- [Undergraduate](https://doc.sis.columbia.edu/#subj/ECON/W2261-20252-001/): Summer 2025 (Rating: median 5.0/5.0, mean 4.4/5.0, response rate 56%)
+<!-- ; <a href="{{ 'Syllabus.pdf' | prepend: 'assets/pdf/' | relative_url }}" target="_blank" rel="noopener noreferrer">Syllabus</a>) -->
 
 ## Teaching Assistantships
 <!-- ### Columbia Business School   -->
@@ -49,3 +50,10 @@ nav_order: 6
 
 **Deep Learning**, Columbia University IEOR
 - *Master* (Instructor: [Ali Hirsa](https://www.ieor.columbia.edu/faculty/ali-hirsa)): Spring 2019
+
+## Student Feedback
+- *Mr Dian Jiao is very knowledgeable in his field. He encouraged class participation, shared his thought process, and provided additional context to the subject matter through case studies, press reviews, etc. He also made sure that the fundamentals were understood before we moved on to the next subject, this allowed everyone to catch up.*
+- *Very passionate about the subject, can improve on explaining concepts more thoroughly.*
+- *Perhaps the speed of the presentation is too fast at times. He has great enthusiasm and appears to care about the students. Assignments are returned in time.*
+- *I really enjoyed the amount of participation opportunities and overall opportunities for engagement in the course. My one improvement would be repetition of questions and clarification of what is being asked as sometimes this is unclear, or confusing.*
+- *It is clear that he is passionate about the subject and wants his students to be engaged. I would appreciate more feedback on the midterm straight after it was marked, but otherwise great.*

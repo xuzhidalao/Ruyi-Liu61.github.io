@@ -3,7 +3,8 @@
 This is the Dian Jiao's homepage updated in Apr, 2025. I aim to have an update on my site at least biannually. 
 
 ## Updates
-- 2025.04.06 a full migration to the [al-folio]("https://github.com/alshedivat/al-folio") theme, contents updates
+- 2025.08.07 content updates
+- 2025.04.06 a full migration to the [al-folio]("https://github.com/alshedivat/al-folio") theme, content updates
 - 2025.02.14 content updates
 - 2024.10.12 content updates
 - 2024.06.02 content updates
