@@ -26,6 +26,9 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+*PhD candidate, LMU Munich*
+
+I am a PhD candidate at the Bavarian AI
 
 My name is Ruyi Liu (刘如一), and I am a Lecturer in Financial Mathematics at the School of Mathematics and Statistics. My research focuses on stochastic control (game), (backward) stochastic differential equations, and their applications in the financial and electricity markets.
 
