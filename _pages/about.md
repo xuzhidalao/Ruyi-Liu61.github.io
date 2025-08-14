@@ -2,10 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://business.columbia.edu/'>Columbia Business School</a>
+subtitle: Lecturer at <a href='https://www.unsw.edu.au/science/our-schools/maths'>Math & Stats School</a>, <a href='https://www.unsw.edu.au/'>University of New South Wales</a>.  
 
 profile:
-  align: right
+  align: left
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
