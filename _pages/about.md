@@ -32,7 +32,6 @@ My name is Ruyi Liu (刘如一), and I am a Lecturer in Financial Mathematics at
 
 Prior to joining CBS, I had served for two years as a quantitative researcher at  <a href="https://www.ruitiancapital.com/">Ruitian Capital</a>, focusing on systematic equity strategies based on statistical methods. I received an M.Phil in Accounting and an M.S. in Financial Engineering from <a href="https://www.columbia.edu/">Columbia University</a>, and an M.A. in Finance and a B.S. in Applied Math from <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>. 
 
-Born and raised in <a href="https://en.wikipedia.org/wiki/Henan">Henan Province</a>, the birthplace of Chinese Civilization with over 3,200 years of recorded history, I enjoy history, poems, and Chinese calligraphy. Also, I am interested in bouldering, basketball, table tennis, road cycling, swimming, and hiking. 
 
 <div class="education">
 <h2>Profession</h2>
@@ -54,6 +53,11 @@ Born and raised in <a href="https://en.wikipedia.org/wiki/Henan">Henan Province<
 
 
 </div>
+
+ <p style="text-align: justify; line-height: 1.5;">
+            <strong style="color:#8B0000; font-size:120%;">Accepting Students:</strong> I am looking for highly motivated students, feel free to drop me an email with your CV. <br>
+            <!-- <span class="dot">&#8226;</span> We are recruiting a Postdoc working on <strong>Generative AI</strong>, here is <strong><a href="https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11287">the link</a></strong> for more details. Happy to chat via email. -->
+        </p>
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
