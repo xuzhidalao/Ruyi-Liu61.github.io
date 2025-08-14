@@ -9,8 +9,9 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
-    # <p>665 W 130TH ST 1170-WS4</p>
-    # <p>New York, NY 10027</p>
+    <p>Room 2072</p>
+    <p>The Anita B. Lawrence Centre</p>
+    <p>Kensington Campus, Sydney</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,11 +27,33 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Dian Jiao, and I am a fourth-year PhD student in Accounting at Columbia Business School. I am broadly interested in how accounting information shapes market efficiency. My current research examines how the information is strategically communicated by corporations and manifested by financial institutions. In my research, I apply both empirical and analytical methods.
+My name is Ruyi Liu (刘如一), and I am a Lecturer in Financial Mathematics at the School of Mathematics and Statistics. My research focuses on stochastic control (game), (backward) stochastic differential equations, and their applications in the financial and electricity markets.
+
 
 Prior to joining CBS, I had served for two years as a quantitative researcher at  <a href="https://www.ruitiancapital.com/">Ruitian Capital</a>, focusing on systematic equity strategies based on statistical methods. I received an M.Phil in Accounting and an M.S. in Financial Engineering from <a href="https://www.columbia.edu/">Columbia University</a>, and an M.A. in Finance and a B.S. in Applied Math from <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>. 
 
 Born and raised in <a href="https://en.wikipedia.org/wiki/Henan">Henan Province</a>, the birthplace of Chinese Civilization with over 3,200 years of recorded history, I enjoy history, poems, and Chinese calligraphy. Also, I am interested in bouldering, basketball, table tennis, road cycling, swimming, and hiking. 
+
+<div class="education">
+<h2>Profession</h2>
+
+
+<img class="eduimg" src="assets/img/sjtu_logo.webp"/>
+<p class="edutext"><b> Hong Kong Polytechnic University </b><br> Resaerch Fellow, Stochastic Control, 2024-2025 </p>
+
+<img class="eduimg" src="assets/img/ox_logo.webp">
+<p class="edutext"><b> The University of Sydney </b><br> Postdoc Researcher, Financial Mathe & BSDEs ,2021-2024 </p>
+</div>
+
+
+<div class="education">
+<h2>Education</h2>
+
+<img class="eduimg" src="assets/img/nu_logo.webp"/>
+<p class="edutext"><b> Northwestern University </b><br> PhD, Financial Mathematics, 2020 <br>BSc, Mathematics & Statistics, 2014 </p>
+
+
+</div>
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
