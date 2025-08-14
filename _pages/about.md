@@ -37,10 +37,10 @@ Prior to joining CBS, I had served for two years as a quantitative researcher at
 <h2>Profession</h2>
 
 
-<img class="eduimg" src="Polyu.png"/>
+<img class="eduimg" src="Polyu.webp"/>
 <p class="edutext"><b> Hong Kong Polytechnic University </b><br> Resaerch Fellow, Stochastic Control, 2024-2025 </p>
 
-<img class="eduimg" src="USYD.png">
+<img class="eduimg" src="USYD.webp">
 <p class="edutext"><b> The University of Sydney </b><br> Postdoc Researcher, Financial Mathe & BSDEs ,2021-2024 </p>
 </div>
 
@@ -48,7 +48,7 @@ Prior to joining CBS, I had served for two years as a quantitative researcher at
 <div class="education">
 <h2>Education</h2>
 
-<img class="eduimg" src="Sdu.png"/>
+<img class="eduimg" src="Sdu.webp"/>
 <p class="edutext"><b> Shandong University</b><br> PhD, Financial Mathematics, 2020 <br>BSc, Mathematics & Statistics, 2014 </p>
 
 
