@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Lecturer at <a href='https://www.unsw.edu.au/science/our-schools/maths'>Math & Stats School</a>, <a href='https://www.unsw.edu.au/'>University of New South Wales</a>.  
+
 
 profile:
   align: left
@@ -26,9 +26,21 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-*PhD candidate, LMU Munich*
+*Lecturer, Math & Stats School, UNSW Sydney*
 
-I am a PhD candidate at the Bavarian AI
+I am a Lecturer in Financial Mathematics at the [School of Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths) at [UNSW, Sydney](https://www.unsw.edu.au/). 
+
+**My research interests:**
+- Stochastic Control (Game)
+- (Backward) Stochastic Differential Equations
+- and their Applications in financial and electricity markets
+
+My research revolves around uncertainty quantification, probabilistic modeling, and its applications in the natural sciences. I have a strong interest in the theoretical foundations of such methods, as well as in their practical applications. Furthermore, I am interested in developing novel probabilistic or uncertainty quantification-related methods for neural networks. Applications of the developed methods include [meteorology](https://journals.ametsoc.org/view/journals/aies/aop/AIES-D-24-0049.1/AIES-D-24-0049.1.xml), [dynamical systems](https://openreview.net/forum?id=gangoPXSRw), [energy systems](https://www.sciencedirect.com/science/article/pii/S2666546823000113) or quantum physics.
+
+
+Before the start of my PhD I obtained a Bachelor's degree in Industrial Engineering and a Masters's degree in Mathematics from Karlsruhe Institute of Technology.
+
+**If you have any questions regarding my research or want to collaborate feel free to contact me anytime**.
 
 My name is Ruyi Liu (刘如一), and I am a Lecturer in Financial Mathematics at the School of Mathematics and Statistics. My research focuses on stochastic control (game), (backward) stochastic differential equations, and their applications in the financial and electricity markets.
 
