@@ -33,20 +33,17 @@ I am a Lecturer in Financial Mathematics at the [School of Mathematics and Stati
 **My research interests:**
 - Stochastic Control (Game)
 - (Backward) Stochastic Differential Equations
-- and their Applications in financial and electricity markets
+- and their Applications in real-world markets
 
-My research revolves around uncertainty quantification, probabilistic modeling, and its applications in the natural sciences. I have a strong interest in the theoretical foundations of such methods, as well as in their practical applications. Furthermore, I am interested in developing novel probabilistic or uncertainty quantification-related methods for neural networks. Applications of the developed methods include [meteorology](https://journals.ametsoc.org/view/journals/aies/aop/AIES-D-24-0049.1/AIES-D-24-0049.1.xml), [dynamical systems](https://openreview.net/forum?id=gangoPXSRw), [energy systems](https://www.sciencedirect.com/science/article/pii/S2666546823000113) or quantum physics.
+My research revolves around stochastic control, (backward) stochastic differential equations, and their applications in practical markets (e.g. financial, commodities and the electricity). I have investigated optimal stopping/control problems and the financial derivatives pricing in the context of financial/hazard risks. Additionally, I have studied the existence, uniqueness, and regularity of certain classes of BSDEs and FBSDEs that arise in optimal control/stopping problems.
 
-
-Before the start of my PhD I obtained a Bachelor's degree in Industrial Engineering and a Masters's degree in Mathematics from Karlsruhe Institute of Technology.
 
 **If you have any questions regarding my research or want to collaborate feel free to contact me anytime**.
 
-My name is Ruyi Liu (刘如一), and I am a Lecturer in Financial Mathematics at the School of Mathematics and Statistics. My research focuses on stochastic control (game), (backward) stochastic differential equations, and their applications in the financial and electricity markets.
-
-
-Prior to joining CBS, I had served for two years as a quantitative researcher at  <a href="https://www.ruitiancapital.com/">Ruitian Capital</a>, focusing on systematic equity strategies based on statistical methods. I received an M.Phil in Accounting and an M.S. in Financial Engineering from <a href="https://www.columbia.edu/">Columbia University</a>, and an M.A. in Finance and a B.S. in Applied Math from <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>. 
-
+ <p style="text-align: justify; line-height: 1.5;">
+            <strong style="color:#8B0000; font-size:120%;">Accepting Students:</strong> I am looking for highly motivated (HDR) students, feel free to drop me an email with your CV. <br>
+            <!-- <span class="dot">&#8226;</span> We are recruiting a Postdoc working on <strong>Generative AI</strong>, here is <strong><a href="https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11287">the link</a></strong> for more details. Happy to chat via email. -->
+        </p>
 
 <div class="education">
 <h2>Profession</h2>
@@ -69,10 +66,7 @@ Prior to joining CBS, I had served for two years as a quantitative researcher at
 
 </div>
 
- <p style="text-align: justify; line-height: 1.5;">
-            <strong style="color:#8B0000; font-size:120%;">Accepting Students:</strong> I am looking for highly motivated students, feel free to drop me an email with your CV. <br>
-            <!-- <span class="dot">&#8226;</span> We are recruiting a Postdoc working on <strong>Generative AI</strong>, here is <strong><a href="https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11287">the link</a></strong> for more details. Happy to chat via email. -->
-        </p>
+
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
