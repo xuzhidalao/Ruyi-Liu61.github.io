@@ -38,12 +38,7 @@ I am a Lecturer in Financial Mathematics at the [School of Mathematics and Stati
 My research revolves around stochastic control, (backward) stochastic differential equations, and their applications in practical markets (e.g. financial, commodities and the electricity). I have investigated optimal stopping/control problems and the financial derivatives pricing in the context of financial/hazard risks. Additionally, I have studied the existence, uniqueness, and regularity of certain classes of BSDEs and FBSDEs that arise in optimal control/stopping problems.
 
 
-**If you have any questions regarding my research or want to collaborate feel free to contact me anytime**.
-
- <p style="text-align: justify; line-height: 1.5;">
-            <strong style="color:#8B0000; font-size:120%;">Accepting Students:</strong> I am looking for highly motivated (HDR) students, feel free to drop me an email with your CV. <br>
-            <!-- <span class="dot">&#8226;</span> We are recruiting a Postdoc working on <strong>Generative AI</strong>, here is <strong><a href="https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11287">the link</a></strong> for more details. Happy to chat via email. -->
-        </p>
+**If you have any questions regarding my research or want to collaborate feel free to contact me anytime. I am looking for highly motivated students, feel free to drop me an email with your CV.**.
 
 <div class="education">
 <h2>Profession</h2>
