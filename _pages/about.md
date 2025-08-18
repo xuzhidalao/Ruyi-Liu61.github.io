@@ -9,7 +9,7 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: 
-    <p>Room 2072</p>
+    <p>Room 2072,</p>
     <p>The Anita B. Lawrence Centre</p>
     <p>Kensington Campus, Sydney</p>
 
@@ -26,7 +26,7 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-*Lecturer, Math & Stats School, UNSW Sydney*
+*Lecturer @ School of Math & Stats, UNSW Sydney*
 
 I am a Lecturer in Financial Mathematics at the [School of Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths) at [UNSW, Sydney](https://www.unsw.edu.au/). 
 
