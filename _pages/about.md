@@ -49,10 +49,10 @@ My research revolves around stochastic control, (backward) stochastic differenti
 <h2>Profession</h2>
 
 
-<img class="eduimg" src="Polyu.webp"/>
+<img class="eduimg" src="assets/img/Polyu.webp"/>
 <p class="edutext"><b> Hong Kong Polytechnic University </b><br> Resaerch Fellow, Stochastic Control, 2024-2025 </p>
 
-<img class="eduimg" src="USYD.webp">
+<img class="eduimg" src="assets/img/USYD.webp">
 <p class="edutext"><b> The University of Sydney </b><br> Postdoc Researcher, Financial Mathe & BSDEs ,2021-2024 </p>
 </div>
 
@@ -60,7 +60,7 @@ My research revolves around stochastic control, (backward) stochastic differenti
 <div class="education">
 <h2>Education</h2>
 
-<img class="eduimg" src="Sdu.webp"/>
+<img class="eduimg" src="assets/img/Sdu.webp"/>
 <p class="edutext"><b> Shandong University</b><br> PhD, Financial Mathematics, 2020 <br>BSc, Mathematics & Statistics, 2014 </p>
 
 
