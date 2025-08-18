@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-15
+date: 2025-07-22
 inline: true
 related_posts: false
 ---
 
-Obtained my PhD candidacy at Columbia Business School.
+Officially started my lecturer role at Math & Stats School @ UNSW.

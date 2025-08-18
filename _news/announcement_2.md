@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2022-09-01
+date: 2025-02-01
 inline: true
 related_posts: false
 ---
 
 
-Officially started my academic endeavor at Columbia Business School.
+["Data-Driven interval robust optimization method of VPP Bidding strategy in spot market under multiple uncertainties"](https://www.sciencedirect.com/science/article/pii/S0306261925000960) is published by *Applied Energy*
