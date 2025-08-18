@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-15
+date: 2025-07-22
 inline: true
 related_posts: false
 ---
 
-Presented my paper to external audiences for the first time in my career.
+Officially started my lecturer role at Math & Stats School @ UNSW.
