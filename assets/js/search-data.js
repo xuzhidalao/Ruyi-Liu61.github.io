@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-received-and-accepted-the-offer-from-columbia-business-school",
-          title: 'Received and accepted the offer from Columbia Business School.',
+        },{id: "news-",
+          title: '',
           description: "",
           section: "News",},{id: "news-our-work-data-driven-interval-robust-optimization-method-of-vpp-bidding-strategy-in-spot-market-under-multiple-uncertainties-is-published-by-applied-energy",
           title: 'Our work “Data-Driven interval robust optimization method of VPP Bidding strategy in spot...',
