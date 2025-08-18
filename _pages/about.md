@@ -27,6 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 *Lecturer @ School of Math & Stats, UNSW Sydney*
+**Contact: ruyi.liu2@unsw.edu.au**
 
 I am a Lecturer in Financial Mathematics at the [School of Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths) at [UNSW, Sydney](https://www.unsw.edu.au/). 
 
@@ -38,14 +39,14 @@ I am a Lecturer in Financial Mathematics at the [School of Mathematics and Stati
 My research revolves around stochastic control, (backward) stochastic differential equations, and their applications in practical markets (e.g. financial, commodities and the electricity). I have investigated optimal stopping/control problems and the financial derivatives pricing in the context of financial/hazard risks. Additionally, I have studied the existence, uniqueness, and regularity of certain classes of BSDEs and FBSDEs that arise in optimal control/stopping problems.
 
 
-**If you have any questions regarding my research or want to collaborate feel free to contact me anytime. I am looking for highly motivated students, feel free to drop me an email with your CV.**.
+**If you have any questions regarding my research or want to collaborate feel free to contact me anytime. I am looking for highly motivated students, feel free to drop me an email with your CV.**
 
 <div class="education">
 <h2>Profession</h2>
 
 
 <img class="eduimg" src="assets/img/Polyu.webp"/>
-<p class="edutext"><b> Hong Kong Polytechnic University </b><br> Resaerch Fellow, Stochastic Control/stopping problems, 2024-2025 </p>
+<p class="edutext"><b> Hong Kong Polytechnic University </b><br> Resaerch Fellow, Stochastic control/stopping problems, 2024-2025 </p>
 
 <img class="eduimg" src="assets/img/USYD.webp">
 <p class="edutext"><b> The University of Sydney </b><br> Postdoc Researcher, Vulnerable option pricing and related BSDEs ,2021-2024 </p>
