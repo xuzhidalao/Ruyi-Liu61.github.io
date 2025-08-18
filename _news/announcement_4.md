@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Officially started my lecturer role at Math & Stats School @ UNSW.
+Officially started the Lecturer role at Math & Stats School @ UNSW.
