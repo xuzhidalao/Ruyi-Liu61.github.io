@@ -33,9 +33,9 @@ latest_posts:
 I am a Lecturer in Financial Mathematics at the [School of Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths) at [UNSW, Sydney](https://www.unsw.edu.au/). 
 
 **My research interests:**
-- Stochastic Control (Game)
-- (Backward) Stochastic Differential Equations
-- and their Applications in real-world markets
+   - Stochastic Control (Game)
+   - (Backward) Stochastic Differential Equations
+   - and their Applications in real-world markets
 
 My research revolves around stochastic control, (backward) stochastic differential equations, and their applications in practical markets (e.g. financial, commodities and the electricity). I have investigated optimal stopping/control problems and the financial derivatives pricing in the context of financial/hazard risks. Additionally, I have studied the existence, uniqueness, and regularity of certain classes of BSDEs and FBSDEs that arise in optimal control/stopping problems.
 
