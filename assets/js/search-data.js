@@ -45,8 +45,8 @@ ninja.data = [{
           section: "News",},{id: "news-presented-my-paper-to-external-audiences-for-the-first-time-in-my-career",
           title: 'Presented my paper to external audiences for the first time in my career....',
           description: "",
-          section: "News",},{id: "news-received-the-first-r-amp-amp-r-in-my-career-started-to-independently-instruct-a-course-for-the-first-time-received-the-mphil-degree-from-columbia-gsas",
-          title: 'Received the first R&amp;amp;amp;R in my career; started to independently instruct a course...',
+          section: "News",},{id: "news-pairs-trading-an-optimal-selling-rule-with-constraints-is-published-online-by-communications-in-mathematical-sciences",
+          title: '“Pairs trading: An optimal selling rule with constraints” is published online by Communications...',
           description: "",
           section: "News",},{
         id: 'social-email',
