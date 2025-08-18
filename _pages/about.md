@@ -45,10 +45,10 @@ My research revolves around stochastic control, (backward) stochastic differenti
 
 
 <img class="eduimg" src="assets/img/Polyu.webp"/>
-<p class="edutext"><b> Hong Kong Polytechnic University </b><br> Resaerch Fellow, Stochastic Control, 2024-2025 </p>
+<p class="edutext"><b> Hong Kong Polytechnic University </b><br> Resaerch Fellow, Stochastic Control/stopping problems, 2024-2025 </p>
 
 <img class="eduimg" src="assets/img/USYD.webp">
-<p class="edutext"><b> The University of Sydney </b><br> Postdoc Researcher, Financial Mathe & BSDEs ,2021-2024 </p>
+<p class="edutext"><b> The University of Sydney </b><br> Postdoc Researcher, Vulnerable option pricing and related BSDEs ,2021-2024 </p>
 </div>
 
 
