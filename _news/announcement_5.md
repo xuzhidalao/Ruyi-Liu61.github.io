@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Preprint ["Optimal Information Disclosure In A Stackelberg Game"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5340055) is **accessible** online
+Our work ["Optimal Information Disclosure In A Stackelberg Game"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5340055) is **accessible** online
 
