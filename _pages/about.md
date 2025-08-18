@@ -37,7 +37,7 @@ I am a Lecturer in Financial Mathematics at the [School of Mathematics and Stati
    - (Backward) Stochastic Differential Equations
    - and their Applications in real-world markets
 
-My research revolves around stochastic control, (backward) stochastic differential equations, and their applications in practical markets (e.g. financial, commodities and the electricity). I have investigated optimal stopping/control problems and the financial derivatives pricing in the context of financial/hazard risks. Additionally, I have studied the existence, uniqueness, and regularity of certain classes of BSDEs and FBSDEs that arise in optimal control/stopping problems.
+My research focuses on stochastic control and (backward) stochastic differential equations (BSDEs/FBSDEs), with applications to real-world markets—including finance, commodities, and electricity systems. I develop analytical frameworks to solve high-dimensional optimal stopping/control problems, particularly those involving stock trading strategies and financial derivatives pricing under market/hazard risks. Additionally, I also studied the existence, uniqueness, and regularity for complex BSDEs/FBSDEs arising in the topics above.
 
 
 **If you have any questions regarding my research or want to collaborate feel free to contact me anytime. I am looking for highly motivated students, feel free to drop me an email with your CV.**
