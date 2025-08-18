@@ -9,8 +9,8 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: 
-    <p>Room 2072,</p>
-    <p>The Anita B. Lawrence Centre</p>
+    <p>Room 2072 @</p>
+    <p>The Anita B. Lawrence Centre,</p>
     <p>Kensington Campus, Sydney</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
