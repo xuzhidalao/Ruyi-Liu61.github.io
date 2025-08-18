@@ -42,7 +42,7 @@ My research revolves around stochastic control, (backward) stochastic differenti
 **If you have any questions regarding my research or want to collaborate feel free to contact me anytime. I am looking for highly motivated students, feel free to drop me an email with your CV.**
 
 <div class="education">
-<h2>Profession</h2>
+<h2>Employment</h2>
 
 
 <img class="eduimg" src="assets/img/Polyu.webp"/>
