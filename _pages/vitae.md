@@ -3,9 +3,9 @@ layout: cv
 permalink: /vitae/
 title: Vitae
 nav: true
-nav_order: 5
+nav_order: 3
 cv_pdf: CV_Ruyi LIU.pdf # you can also use external links here
-description: 
+description: CV, Teaching and professional service.
 toc:
   sidebar: left
 ---
