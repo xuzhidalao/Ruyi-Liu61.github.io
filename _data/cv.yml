@@ -1,0 +1,52 @@
+- title: Teaching
+  type: time_table
+  contents:
+    - title: <a href="https://cirtl.net/learning-outcomes/" style="color:inherit;">CIRTL Associate</a>
+      institution: <a href="https://searle.northwestern.edu/" style="color:inherit;">Searle Center for Advancing Learning and Teaching</a>
+      year: 2025
+
+    - title: <a href="https://www.mccormick.northwestern.edu/materials-science/academics/courses/descriptions/358.html" style="color:inherit;">Modeling and Simulation in Materials Science</a>
+      institution: Teaching Assistant, Northwestern (MSE 358)
+      year: 2023
+      description:
+        - Hosted lectures on materials informatics and high-performance computing.
+        - Redesigned lab assignments in Jupyter and <a href="https://wiki.fysik.dtu.dk/ase/index.html">ASE</a>.
+
+    - title: Probability and Statistics
+      institution: Peer Mentor, SJTU (MATH 119)
+      year: 2017
+
+
+- title: Industry Experiences
+  type: time_table
+  contents:
+    - title: Research Intern
+      institution: <a href="https://merl.com" style="color:inherit;">Mitsubishi Electric Research Laboratories</a>
+      year: 2023
+      description:
+        - Machine learning-based electric motor design and fault diagnosis.
+
+
+- title: Professional Services
+  type: map
+  contents:
+    - name: Reviewer
+      value: Machine Learning Science and Technology, European Physical Journal B, Neural Computing & Applications, MRS Advances, ISA Transactions, MethodsX, Journal of Open Source Software; NeurIPS (top reviewer), ICLR, ICML, IDETC-CIE, AI4Mat Workshop, ICEM
+    - name: Assistant
+      value: 2025 MRS Spring Meeting symposium assistant
+
+
+- title: Outreach
+  type: nested_list
+  contents:
+    - title: Co-Organizer, <a href="https://www.nico.northwestern.edu/news-events/nico-reading-group.html" style="color:inherit;">NICO Reading Group</a>
+      items:
+        - Organize discussions on fundamental and state-of-the-art AI methods with applications in various domains.
+        - Participated by students and scholars from university, community college, and industry.
+    - title: Volunteer, <a href="https://www.iinano.org/education/scoutnanoday/" style="color:inherit;">All Scout Nano Day</a>
+      items:
+        - A program for kids and parents to visit Northwestern’s campus to delve into the exciting field of nanotechnology.
+
+    - title: Volunteer, <a href="https://bcse.northwestern.edu/standalonePage/baxter_symposium" style="color:inherit;">Baxter Center for Science Education</a>
+      items:
+        - A symposium for middle/high school teachers from the Chicago region to explore cutting-edge science activities.
