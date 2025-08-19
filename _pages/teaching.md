@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: 
-nav: true
+nav: false
 nav_order: 6
 ---
 
@@ -52,7 +52,7 @@ nav_order: 6
 - *Master* (Instructor: [Ali Hirsa](https://www.ieor.columbia.edu/faculty/ali-hirsa)): Spring 2019
 
 ## Student Feedback
-- *Mr Dian Jiao is very knowledgeable in his field. He encouraged class participation, shared his thought process, and provided additional context to the subject matter through case studies, press reviews, etc. He also made sure that the fundamentals were understood before we moved on to the next subject, this allowed everyone to catch up.*
+- *Mr Ruyi Liu is very knowledgeable in his field. He encouraged class participation, shared his thought process, and provided additional context to the subject matter through case studies, press reviews, etc. He also made sure that the fundamentals were understood before we moved on to the next subject, this allowed everyone to catch up.*
 - *Very passionate about the subject, can improve on explaining concepts more thoroughly.*
 - *Perhaps the speed of the presentation is too fast at times. He has great enthusiasm and appears to care about the students. Assignments are returned in time.*
 - *I really enjoyed the amount of participation opportunities and overall opportunities for engagement in the course. My one improvement would be repetition of questions and clarification of what is being asked as sometimes this is unclear, or confusing.*

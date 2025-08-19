@@ -1,6 +1,6 @@
 # Dian Jiao's Homepage
 
-This is the Dian Jiao's homepage updated in Apr, 2025. I aim to have an update on my site at least biannually. 
+This is the Ruyi Liu's homepage updated in Jul, 2025. 
 
 ## Updates
 - 2025.08.07 content updates
