@@ -8,6 +8,7 @@ nav_order: 3
 display_categories: 
 horizontal: false
 ---
+ # Publications
 
 # Working Paper
 **[Mandatory US Subsidy Disclosures: Early Evidence](https://papers.ssrn.com/sol3/abstract_id=5135879)**  

@@ -26,11 +26,9 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-*Lecturer @ School of Math & Stats, UNSW Sydney*
+*Lecturer @ [School of Math & Stats](https://www.unsw.edu.au/science/our-schools/maths) , [UNSW Sydney](https://www.unsw.edu.au/)*
 
 **Email: ruyi.liu2@unsw.edu.au**
-
-I am a Lecturer in Financial Mathematics at the [School of Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths) at [UNSW, Sydney](https://www.unsw.edu.au/). 
 
 **My research interests:**
    - Stochastic Control (Game)
