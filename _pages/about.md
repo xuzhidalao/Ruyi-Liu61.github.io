@@ -37,7 +37,7 @@ I am a Lecturer in Financial Mathematics at the [School of Mathematics and Stati
    - (Backward) Stochastic Differential Equations
    - and their Applications in real-world markets
 
-My research focuses on stochastic control and (backward) stochastic differential equations (BSDEs/FBSDEs), with applications to real-world markets—including finance, commodities, and electricity systems. I develop analytical frameworks to solve high-dimensional optimal stopping/control problems, particularly those involving stock trading strategies and financial derivatives pricing under market/hazard risks. Additionally, I also studied the existence, uniqueness, and regularity for complex BSDEs/FBSDEs arising in the topics above.
+My research focuses on stochastic control and (backward) stochastic differential equations (BSDEs/FBSDEs), with applications to real-world markets—including finance, commodities, and electricity systems. I develop analytical frameworks to solve optimal stopping/control problems, particularly those involving stock trading strategies and financial derivatives pricing under market/hazard risks. Additionally, I also investigated the existence, uniqueness, and regularity for complex BSDEs/FBSDEs arising in the topics above.
 
 
 **If you have any questions regarding my research or want to collaborate feel free to contact me anytime. I am looking for highly motivated students, feel free to drop me an email with your CV.**
@@ -45,12 +45,14 @@ My research focuses on stochastic control and (backward) stochastic differential
 <div class="education">
 <h2>Employment</h2>
 
+<img class="eduimg" src="assets/img/Unsw.webp"/>
+<p class="edutext"><b> University of New South Wales </b><br> Lecturer, School of Mathematics and Statistics, 2025- </p>
 
 <img class="eduimg" src="assets/img/Polyu.webp"/>
 <p class="edutext"><b> Hong Kong Polytechnic University </b><br> Resaerch Fellow, Stochastic control/stopping problems, 2024-2025 </p>
 
 <img class="eduimg" src="assets/img/USYD.webp">
-<p class="edutext"><b> The University of Sydney </b><br> Postdoc Researcher, Vulnerable option pricing and related BSDEs ,2021-2024 </p>
+<p class="edutext"><b> The University of Sydney </b><br> Postdoc, Vulnerable option pricing and related BSDEs ,2021-2024 </p>
 </div>
 
 
