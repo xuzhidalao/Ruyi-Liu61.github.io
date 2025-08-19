@@ -1,10 +1,12 @@
 ---
 layout: page
-permalink: /publications/
-title: Publications
-description: The best is yet to come.
+title: Research
+permalink: /research/
+description: 
 nav: true
-nav_order: 2
+nav_order: 3
+display_categories: 
+horizontal: false
 ---
 
 <!-- _pages/publications.md -->
