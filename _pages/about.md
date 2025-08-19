@@ -46,7 +46,7 @@ My research focuses on stochastic control and (backward) stochastic differential
 <h2>Employment</h2>
 
 <img class="eduimg" src="assets/img/Unsw.webp"/>
-<p class="edutext"><b> University of New South Wales </b><br> Lecturer, School of Mathematics and Statistics, 2025- </p>
+<p class="edutext"><b> University of New South Wales, Sydney </b><br> Lecturer, School of Mathematics and Statistics, 2025- </p>
 
 <img class="eduimg" src="assets/img/Polyu.webp"/>
 <p class="edutext"><b> Hong Kong Polytechnic University </b><br> Resaerch Fellow, Stochastic control/stopping problems, 2024-2025 </p>
