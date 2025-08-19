@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-vitae",
           title: "Vitae",
-          description: "",
+          description: "CV, Teaching and professional service.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/vitae/";
