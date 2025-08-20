@@ -49,20 +49,6 @@ ninja.data = [{
           window.open("mailto:%72%75%79%69.%6C%69%75%32@%75%6E%73%77.%65%64%75.%61%75", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/xuzhidalao", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/dian-jiao-dj2526", "_blank");
-        },
-      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
