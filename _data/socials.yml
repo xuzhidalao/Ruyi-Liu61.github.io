@@ -46,6 +46,6 @@ scholar_userid: YnEu5FgAAAAJ # your Google Scholar ID
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
  custom_social: # can be any name here other than the ones already defined above
-  logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdiErIcTKlsb-Y59itvJJZe9Kd_nMG-8WOzg&s # can be png, svg, jpg
+  logo: https://www.inside.unsw.edu.au/sites/default/files/inline-images/crest.jpg # can be png, svg, jpg
   title: UNSW
   url: https://www.unsw.edu.au/staff/ruyi-liu
