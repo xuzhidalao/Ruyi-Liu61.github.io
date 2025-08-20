@@ -46,14 +46,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%64%6A%32%35%32%36@%63%6F%6C%75%6D%62%69%61.%63%6F%6D", "_blank");
+          window.open("mailto:%72%75%79%69.%6C%69%75%32@%75%6E%73%77.%65%64%75.%61%75", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/d-jiao", "_blank");
+          window.open("https://github.com/xuzhidalao", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -67,14 +67,21 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0009-0002-9599-0168", "_blank");
+          window.open("https://orcid.org/0000-0002-7435-857X", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Ruyi-Liu/", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=LFgnyyMAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=YnEu5FgAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
