@@ -45,7 +45,7 @@ scholar_userid: YnEu5FgAAAAJ # your Google Scholar ID
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-# custom_social: # can be any name here other than the ones already defined above
-#  logo: https://www.inside.unsw.edu.au/sites/default/files/inline-images/crest.jpg # can be png, svg, jpg
-# title: UNSW
-# url: https://www.unsw.edu.au/staff/ruyi-liu
+custom_social: # can be any name here other than the ones already defined above
+logo: https://images.credly.com/images/0a6743b4-cec3-469a-bd76-8ca923841b7d/blob.png # can be png, svg, jpg
+title: UNSW
+url: https://www.unsw.edu.au/staff/ruyi-liu
