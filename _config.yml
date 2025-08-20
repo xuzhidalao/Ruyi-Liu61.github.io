@@ -344,7 +344,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 # These are the defaults
 external_links:
-  enabled: true
+  enabled: false
   rel: external nofollow noopener
   target: _blank
   exclude:
@@ -358,7 +358,7 @@ external_links:
 imagemagick:
   enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
-    - 480
+    # - 480
     - 800
     - 1400
   input_directories:
