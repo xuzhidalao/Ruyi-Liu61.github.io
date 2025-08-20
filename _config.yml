@@ -307,12 +307,12 @@ scholar:
 # # Filter out certain bibtex entry keywords used internally from the bib output
  filtered_bibtex_keywords:
    [
-     abbr,
+    abbr,
     abstract,
     additional_info,
-         altmetric,
+    altmetric,
     annotation,
-     arxiv,
+    arxiv,
     award,
     award_name,
     bibtex_show,
@@ -321,14 +321,14 @@ scholar:
     google_scholar_id,
     html,
     inspirehep_id,
-   pdf,
-   poster,
-       preview,
+    pdf,
+    poster,
+    preview,
     selected,
     slides,
     supp,
-     video,
-         website,
+    video,
+    website,
   ]
 
 # # Maximum number of authors to be shown for each publication (more authors are visible on click)
