@@ -5,16 +5,16 @@
       institution: <a href="https://www.maths.usyd.edu.au/;">lecturer, School of Mathemaitcs and Statistics, USYD</a>
       year: 2023
 
-    - title: <a href="https://www.mccormick.northwestern.edu/materials-science/academics/courses/descriptions/358.html" style="color:inherit;">Modeling and Simulation in Materials Science</a>
-      institution: Teaching Assistant, Northwestern (MSE 358)
-      year: 2023
+    - title: <a href="https://www.sydney.edu.au/units/MATH3075" style="color:inherit;"> MATH3075/3975: Financial Derivatives</a>
+      institution: 2nd lecturer, School of Mathemaitcs and Statistics, USYD
+      year: 2022
       description:
-        - Hosted lectures on materials informatics and high-performance computing.
+        - Hosted lectures on single-period market models and martingale measures.
         - Redesigned lab assignments in Jupyter and <a href="https://wiki.fysik.dtu.dk/ase/index.html">ASE</a>.
 
     - title: Probability and Statistics
-      institution: Peer Mentor, SJTU (MATH 119)
-      year: 2017
+      institution: Peer Mentor and tutor on Stochastic Control, Shandong university
+      year: 2018-2020
 
 
 - title: Industry Experiences
