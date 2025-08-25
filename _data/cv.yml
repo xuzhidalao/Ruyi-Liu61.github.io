@@ -1,16 +1,15 @@
 - title: Teaching
   type: time_table
   contents:
-    - title: <a href="https://www.sydney.edu.au/units/MATH5551" style="color:inherit;"> MATH5551: Stochastics and Finance</a>
+    - title: <a href="https://www.sydney.edu.au/units/MATH5551" style="color:inherit;"> MATH5551-Stochastics and Finance</a>
       institution: <a href="https://www.maths.usyd.edu.au/;">lecturer, School of Mathemaitcs and Statistics, USYD</a>
       year: 2023
 
-    - title: <a href="https://www.sydney.edu.au/units/MATH3075" style="color:inherit;"> MATH3075/3975: Financial Derivatives</a>
+    - title: <a href="https://www.sydney.edu.au/units/MATH3075" style="color:inherit;"> MATH3075/3975-Financial Derivatives</a>
       institution: 2nd lecturer, School of Mathemaitcs and Statistics, USYD
       year: 2022
       description:
         - Hosted lectures on single-period market models and martingale measures.
-        - Redesigned lab assignments in Jupyter and <a href="https://wiki.fysik.dtu.dk/ase/index.html">ASE</a>.
 
     - title: Probability and Statistics
       institution: Peer Mentor and tutor on Stochastic Control, Shandong university
