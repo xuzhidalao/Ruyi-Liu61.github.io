@@ -11,8 +11,8 @@
       description:
         - Hosted lectures on single-period market models and martingale measures.
 
-    - title: Probability and Statistics
-      institution: Peer Mentor and tutor on Stochastic Control, Shandong university
+    - title: Stochastic Control
+      institution: 2nd lecturer and Tutor on Stochastic Control, Shandong university
       year: 2018-2020
 
 
@@ -32,20 +32,20 @@
     - name: Reviewer
       value: Finance and Stochastics, Automatica, IEEE Transactions on Automatic Control, Fundamental Research, IEEE System Control Letters, Fundamental Research, Mathematical Control and Related Fields, Applied Mathematics and Optimization, Statistics and Probability Letters
     - name: Assistant
-      value: 2025 MRS Spring Meeting symposium assistant
+      value: 2018-2020  Stochastic control and Optimization Symposium assistant
 
 
-- title: Outreach
-  type: nested_list
-  contents:
-    - title: Co-Organizer, <a href="https://www.nico.northwestern.edu/news-events/nico-reading-group.html" style="color:inherit;">NICO Reading Group</a>
-      items:
-        - Organize discussions on fundamental and state-of-the-art AI methods with applications in various domains.
-        - Participated by students and scholars from university, community college, and industry.
-    - title: Volunteer, <a href="https://www.iinano.org/education/scoutnanoday/" style="color:inherit;">All Scout Nano Day</a>
-      items:
-        - A program for kids and parents to visit Northwestern’s campus to delve into the exciting field of nanotechnology.
+#- title: Outreach
+#  type: nested_list
+#  contents:
+#    - title: Co-Organizer, <a href="https://www.nico.northwestern.edu/news-events/nico-reading-group.html" style="color:inherit;">NICO Reading Group</a>
+#      items:
+#        - Organize discussions on fundamental and state-of-the-art AI methods with applications in various domains.
+#        - Participated by students and scholars from university, community college, and industry.
+#    - title: Volunteer, <a href="https://www.iinano.org/education/scoutnanoday/" style="color:inherit;">All Scout Nano Day</a>
+#      items:
+#        - A program for kids and parents to visit Northwestern’s campus to delve into the exciting field of nanotechnology.
 
-    - title: Volunteer, <a href="https://bcse.northwestern.edu/standalonePage/baxter_symposium" style="color:inherit;">Baxter Center for Science Education</a>
-      items:
-        - A symposium for middle/high school teachers from the Chicago region to explore cutting-edge science activities.
+#    - title: Volunteer, <a href="https://bcse.northwestern.edu/standalonePage/baxter_symposium" style="color:inherit;">Baxter Center for Science Education</a>
+#      items:
+#        - A symposium for middle/high school teachers from the Chicago region to explore cutting-edge science activities.
