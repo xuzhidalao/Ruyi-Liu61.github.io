@@ -30,7 +30,7 @@
   type: map
   contents:
     - name: Reviewer
-      value: Machine Learning Science and Technology, European Physical Journal B, Neural Computing & Applications, MRS Advances, ISA Transactions, MethodsX, Journal of Open Source Software; NeurIPS (top reviewer), ICLR, ICML, IDETC-CIE, AI4Mat Workshop, ICEM
+      value: Finance and Stochastics, Automatica, IEEE Transactions on Automatic Control, Fundamental Research, IEEE System Control Letters, Fundamental Research, Mathematical Control and Related Fields, Applied Mathematics and Optimization, Statistics and Probability Letters
     - name: Assistant
       value: 2025 MRS Spring Meeting symposium assistant
 
