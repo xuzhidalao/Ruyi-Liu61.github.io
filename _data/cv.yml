@@ -17,12 +17,14 @@
 
 
 - title: Presentations
-  type: time_table
+  type: map
   contents:
-   - title: 1
-      institution: 2
-      year: 2024
+   - name: AustMs 2024 Conference Session Stochastic Differential Equations
+      value: University of Auckland, New Zealand, 2024
+     
 
+ 
+     
 
 - title: Professional Services
   type: map
