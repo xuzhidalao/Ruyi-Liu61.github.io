@@ -15,12 +15,26 @@
       institution: 2nd lecturer and Tutor on Stochastic Control, Shandong university
       year: 2018-2020
 
-- title: Industry Experiences
+
+- title: Presentations
   type: time_table
   contents:
-     - title: The 10th International Symposium on BSDEs
-      institution: Shandong University, China
-      year: 2025
+   - title: AustMs 2024 Conference Session Stochastic Differential Equations
+      institution: University of Auckland, New Zealan
+      year: 2024
+
+    - title: Probability and Stochastic Analysis Seminar
+      institution: University of Auckland, New Zealan
+      year:  2024
+
+    - title: AustMs 2023 Conference Session Stochastic Differential Equations
+      institution: University of Queensland, Australia
+      year: 2023
+
+    - title: Stochastics and Finance Seminar
+      institution: The University, Australia
+      year: 2023
+     
 
 - title: Professional Services
   type: map
