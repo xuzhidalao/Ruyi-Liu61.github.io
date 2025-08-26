@@ -18,23 +18,7 @@
 - title: Selected Presentations
   type: time_table
   contents:
-     - title: The 10th International Symposium on Backward Stochastic Differential Equations
-      institution: Shandong University, China
-      year: Jul. 2025
-      
-    - title: AustMs 2024 Conference-Session-Stochastic Differential Equations
-      institution: University of Auckland, New Zealan
-      year: Dec. 2024
-
-      - title: Probability and Stochastic Analysis Seminar
-      institution: University of Auckland, New Zealan
-      year: Dec. 2024
-
-         - title: AustMs 2023 Conference-Session Stochastic Differential Equations
-      institution: University of Queensland, Australia
-      year: Dec. 2023
-
-    - title: Stochastics and Finance Seminar
+       - title: Stochastics and Finance Seminar
       institution: School of Mathematics and Statistics, The University of Sydney, Australia
       year: Jul. 2023
      
