@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://xuzhidalao.github.io/sitemap.xml
+Sitemap: https://ruyi-liu61.github.io/sitemap.xml
