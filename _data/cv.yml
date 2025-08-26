@@ -15,13 +15,15 @@
       institution: 2nd lecturer and Tutor on Stochastic Control, Shandong university
       year: 2018-2020
 
-- title: Presentations
+- title: Prensentations
   type: time_table
   contents:
-     - title: The 10th International Symposium on Backward Stochastic Differential Equations
+    - title: 
+     - title: The 10th International Symposium on BSDEs
       institution: Shandong University, China
       year: 2025
-    
+
+
 
 - title: Professional Services
   type: map
