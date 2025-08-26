@@ -15,15 +15,32 @@
       institution: 2nd lecturer and Tutor on Stochastic Control, Shandong university
       year: 2018-2020
 
-
-- title: Industry Experiences
+- title: Selected Presentations
   type: time_table
   contents:
-    - title: Research Intern
-      institution: <a href="https://merl.com" style="color:inherit;">Mitsubishi Electric Research Laboratories</a>
-      year: 2023
-      description:
-        - Machine learning-based electric motor design and fault diagnosis.
+     - title: The 10th International Symposium on Backward Stochastic Differential Equations
+      institution: Shandong University, China
+      year: Jul. 2025
+      
+    - title: AustMs 2024 Conference-Session ``Stochastic Differential Equations''
+      institution: University of Auckland, New Zealan
+      year: Dec. 2024
+
+      - title: Probability and Stochastic Analysis Seminar
+      institution: University of Auckland, New Zealan
+      year: Dec. 2024
+
+         - title: AustMs 2023 Conference-Session ``Stochastic Differential Equations''
+      institution: University of Queensland, Australia
+      year: Dec. 2023
+
+         - title: Probability and Stochastic Analysis Seminar
+
+
+    - title: Stochastics and Finance Seminar
+      institution: School of Mathematics and Statistics, The University of Sydney, Australia
+      year: Jul. 2023
+     
 
 
 - title: Professional Services
